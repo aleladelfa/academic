@@ -4,5 +4,5 @@ title: Home
 permalink: /academic/
 lang: en
 invisible: true
-title: Sociologs | Strategy, digital innovation and China
+title: title | Strategy, digital innovation and China
 ---
