@@ -1,5 +1,5 @@
 ---
-title: "Test For"
+title: "About"
 layout: about
 ---
-Hey, Ferhat here
+Hi, Alessandro here.
