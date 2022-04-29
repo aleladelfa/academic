@@ -1,2 +1,3 @@
 title_html: "<b>hello</b>world"
+baseurl: "/academic" # the subpath of your site, e.g. /blog
 description: "ok, I'll add a description here."
